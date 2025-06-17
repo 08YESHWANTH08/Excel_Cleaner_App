@@ -27,7 +27,6 @@ Excel_Cleaner_App/
 - **Python 3**
 - **Pandas**
 - **openpyxl**
-- **Streamlit** *(optional for dashboard visualization)*
 - **Virtual Environment (venv)**
 
 ## 🛠️ How to Run
